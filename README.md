@@ -34,9 +34,9 @@ Gereksinimler:
 
     Maven İle Derleme yapınız.
     
-        ./mvnw clean package
+        mvn clean package
     
-    Çalıştırılabilir Jar dosyasını çalıştırmak için terminalde şu komut girilmeli :
+    Çalıştırılabilir jar dosyasını çalıştırmak için terminalde şu komut girilmeli :
 
         java -jar target/LibraryApplication.jar
         
